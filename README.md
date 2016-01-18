@@ -14,7 +14,9 @@ Attempting to gather together up to date/current:
 * Workflow
 
 ## Useful links: 
-// to be categories and - perhaps a level of expertise denoted
+// to be categories & (?) a level of expertise denoted
+* Drupal 8 Theming guide:
+ * http://d8.sqndr.com/index.html
 * APIs reference:  
   * https://api.drupal.org/api/drupal  
 * Drupal.org git - example module reference:  
