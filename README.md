@@ -1,9 +1,10 @@
 # Drupal 8 Resources
 Attempting to gather together up to date/current:  
-* How tos
+* How tos / tutorials
 * Introductions
 * Cheat sheets
 * Case studies 
+* Presentations
 
 ## Areas of interest:
 * Site building
