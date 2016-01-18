@@ -1,5 +1,6 @@
 # Drupal 8 Resources
 Attempting to gather together up to date/current:  
+// If there are any pay for (& or) sign up services this needs to be noted
 * How tos / tutorials
 * Introductions
 * Cheat sheets
@@ -8,9 +9,8 @@ Attempting to gather together up to date/current:
 
 ## Areas of interest:
 * Site building
-* Theming
+* Theming/Frontend
 * Backend
-* Frontend
 * Workflow
 
 ## Useful links: 
