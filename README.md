@@ -12,7 +12,8 @@ Attempting to gather together up to date/current:
 * Frontend
 * Workflow
 
-## Useful links: // to be categories and - perhaps a level of expertise denoted
+## Useful links: 
+// to be categories and - perhaps a level of expertise denoted
 * APIs reference:  
   * https://api.drupal.org/api/drupal  
 * Drupal.org git - example module reference:  
