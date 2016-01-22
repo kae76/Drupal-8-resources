@@ -27,3 +27,5 @@ Attempting to gather together up to date/current:
  * http://drushcommands.com  
 * Top 100 contributed modules:  
  * http://www.bluespark.com/status-top-100-contributed-modules-drupal-8  
+* Drupal 8 development a useful user guide for site building using Drupal.
+ * https://www.drupal.org/project/user_guide
