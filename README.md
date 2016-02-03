@@ -29,3 +29,5 @@ Attempting to gather together up to date/current:
  * http://www.bluespark.com/status-top-100-contributed-modules-drupal-8  
 * Drupal 8 development a useful user guide for site building using Drupal.
  * https://www.drupal.org/project/user_guide
+* How to Create Custom Theme Suggestions in Drupal 8
+ * https://www.chapterthree.com/blog/how-create-custom-theme-suggestions-drupal-8
